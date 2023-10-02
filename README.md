@@ -48,13 +48,13 @@ Armed with statistical prowess and a knack for pattern recognition, I unravel th
                     
 <h3 align="center">Stars</h3>
 <div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishararaviget9&layout=compact&theme=nightowl" alt=ishararaviget9 />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaginalyticWEB&layout=compact&theme=nightowl" alt=ImaginalyticWEB />
 </div>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">Statistics</h3>
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishararaviget9&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImaginalyticWEB&theme=tokyonight" height="180em" />
 </div>
                  
     
