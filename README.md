@@ -3,6 +3,7 @@
 Hi 👌, I'm Imaginalytic
 ===========================================================================================================================================
 
+![snake gif](https://github.com/ImaginalyticWEB/ImaginalyticWEB/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 Software Engineer, System Analyst, Quality Assurance Engineer, Computer Scientist, UI Engineer, Big Data Engineer, Database Engineer, Web Designer, Data Scientist
